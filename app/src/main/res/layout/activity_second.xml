@@ -5,9 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".SecondActivity" >
     <ListView
-        android:id="@+id/listViewMain"
+        android:id="@+id/listViewSecond"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="685dp" />
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Quay Lai" />
 </LinearLayout>
