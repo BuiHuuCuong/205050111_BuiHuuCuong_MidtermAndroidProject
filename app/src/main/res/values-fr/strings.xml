@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Thi Thuc Hanh</string>
+    <string name="buttonback">Retour</string>
+    <string-array name="layout_name_string">
+        <item>pain</item>
+        <item>gâteau_au_fromage_aux_cerises</item>
+        <item>maison_en_pain_d_epices</item>
+        <item>hamburger</item>
+        <item>œufs_au_plat</item>
+        <item>œufs_au_plat</item>
+        <item>hamburger</item>
+        <item>maison_en_pain_d_epices</item>
+        <item>gâteau_au_fromage_aux_cerises</item>
+        <item>pain</item>
+    </string-array>
+</resources>
